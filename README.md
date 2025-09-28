@@ -14,4 +14,4 @@ A ideia foi transformar meu currículo tradicional em uma página interativa e r
 
 ## 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/marconi-limma-/)
-- [E-mail](mailto:marconi.junior97@gmail.com)
+- Email : marconi.junior97@gmail.com
